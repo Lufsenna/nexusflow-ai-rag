@@ -1,0 +1,11 @@
+id_pedido,cliente,cidade,estado,transportadora,data_pedido,data_envio,data_entrega,status,prazo_dias,valor_frete
+NF-1001,Mariana Souza,Imperatriz,MA,LogExpress,2025-12-01,2025-12-02,2025-12-06,Entregue,5,24.90
+NF-1002,Carlos Mendes,São Luís,MA,Rota Norte,2025-12-02,2025-12-03,2025-12-10,Entregue com atraso,5,31.50
+NF-1003,Ana Lima,Imperatriz,MA,LogExpress,2025-12-03,2025-12-04,,Em trânsito,4,22.00
+NF-1004,João Pedro,Palmas,TO,Rota Norte,2025-12-05,2025-12-06,2025-12-11,Entregue,6,38.90
+NF-1005,Fernanda Alves,Balsas,MA,Entrega Certa,2025-12-07,2025-12-08,,Aguardando coleta,5,27.00
+NF-1006,Lucas Costa,Imperatriz,MA,LogExpress,2025-12-08,2025-12-09,2025-12-13,Entregue,4,21.90
+NF-1007,Beatriz Rocha,Açailândia,MA,Entrega Certa,2025-12-10,2025-12-11,2025-12-18,Entregue com atraso,5,29.90
+NF-1008,Rafael Silva,São Paulo,SP,Rota Norte,2025-12-12,2025-12-13,2025-12-17,Entregue,5,45.00
+NF-1009,Juliana Freitas,Imperatriz,MA,LogExpress,2025-12-15,2025-12-16,,Em trânsito,4,23.50
+NF-1010,Thiago Martins,Araguaína,TO,Entrega Certa,2025-12-17,2025-12-18,2025-12-24,Entregue,5,35.00
